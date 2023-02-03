@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "170306553784",
+    "project_id": "coding-test-3742d",
+    "storage_bucket": "coding-test-3742d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170306553784:android:8bb47c6043a05408b6714d",
+        "android_client_info": {
+          "package_name": "com.example.coding_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170306553784-ki413sdkji56c5k2essi8mnsf3vfmrre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coding_test",
+            "certificate_hash": "b7dada15b87e9a0a0b1c0c13a550b9e2eaa519ba"
+          }
+        },
+        {
+          "client_id": "170306553784-p76kkivpi251v7548it8n9hrtv8h7bhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCna3oG5TJjw1wbxkofLIdFVUUJOpFxXao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170306553784-p76kkivpi251v7548it8n9hrtv8h7bhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170306553784:android:94edd9536a9e923cb6714d",
+        "android_client_info": {
+          "package_name": "com.example.mc_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170306553784-p76kkivpi251v7548it8n9hrtv8h7bhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCna3oG5TJjw1wbxkofLIdFVUUJOpFxXao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170306553784-p76kkivpi251v7548it8n9hrtv8h7bhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
